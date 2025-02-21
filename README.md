@@ -1,2 +1,3 @@
 # hello-world
-Just a repo following the hello world guide
+I'm an amateur programmer working on practicing my workflow and building out my skillset. Don't make fun of me too much!
+*I use Arch btw*
